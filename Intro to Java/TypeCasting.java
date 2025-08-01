@@ -11,5 +11,7 @@ public class TypeCasting {
         double pi = 3.14;
         int intPi = (int) pi;  // double to int
         System.out.println("Explicit casting (double to int): " + intPi);
+
+        
     }
 }

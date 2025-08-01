@@ -9,5 +9,11 @@ public class Primitives {
         double largeDecimalNumbers = 44556643.4343; // 8 bytes
         long largeInteger = 3434343434343L; // 'L' is used to denote a long literal
         boolean isJavaFun = true; // 1 bit
+        System.out.println("Age: " + age);
+        System.out.println("Letter: " + letter);
+        System.out.println("Marks: " + marks);
+        System.out.println("Large Decimal Number: " + largeDecimalNumbers);
+        System.out.println("Large Integer: " + largeInteger);
+        System.out.println("Is Java Fun? " + isJavaFun);
     }
 }
